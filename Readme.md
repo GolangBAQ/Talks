@@ -12,7 +12,7 @@ Este repo mantiene enlaces a las los materiales de nuestras presentaciones de ca
   - Source https://github.com/apaganobeleno/dockito
 
 #### Mar 17 de 2016
-* Todd McCloud Talk - Introducing Web Applications With Go.
+* Todd McLeod Talk - Introducing Web Applications With Go.
    - Video https://www.youtube.com/watch?v=X6Khtu071C4&list=PLSak_q1UXfPocNRbwVLXW_pebWKWOFp2c
 
 #### Abr 18 de 2016
