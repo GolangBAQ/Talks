@@ -19,4 +19,9 @@ Este repo mantiene enlaces a las los materiales de nuestras presentaciones de ca
 * Taller: Web desde cero en Go
   - Slides http://slides.com/larrymorales/steps/#
 
-#### Jun 7 de 2016 (Pronto)
+#### Jun 7 de 2016
+* TDD simple usando Go, CircleCI & Heroku
+  - Slides   http://slides.com/antoniopagano/deck#/
+  - Source   https://github.com/apaganobeleno/go-heroku-circle/tree/development
+  - CircleCI https://circleci.com/
+  - Heroku   https://www.heroku.com/
